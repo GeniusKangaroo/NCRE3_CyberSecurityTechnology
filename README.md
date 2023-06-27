@@ -2,6 +2,8 @@
 
 ### This is my hole study for the NCRE3 Cyber Security Technology
 
+### 我会持续更新整个复习过程以及资料
+
 #### 以下是一些可以参考的备考资料
 
 - [官方考试大纲](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B2.pdf)
