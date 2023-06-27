@@ -15,4 +15,4 @@
   
 ##### 分章节的list（updating）
 
-- [2.1密码技术](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/2.1%E5%AF%86%E7%A0%81%E6%8A%80%E6%9C%AF)
+- [2.1密码技术](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/2.1%E5%AF%86%E7%A0%81%E6%8A%80%E6%9C%AF.md)
