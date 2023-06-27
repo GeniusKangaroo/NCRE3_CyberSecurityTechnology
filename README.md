@@ -11,4 +11,7 @@
 
 - [题库001](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/%E4%B8%89%E7%BA%A7%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF%E6%96%B0%E9%A2%98%E5%9E%8B%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8%E9%A2%98%E5%BA%93.doc)
 
-- [个人的知识点梳理md](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF.md)
+- [个人的知识点梳理(完整版）md](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF.md)
+##### 分章节的list
+
+- [2.1密码技术]()
