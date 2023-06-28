@@ -2,9 +2,9 @@
 
 ### This is my whole study for the NCRE3 Cyber Security Technology
 
-### 我会持续更新整个复习过程以及资料
+### I will continue to update all the test-preparing stuff till the test
 
-#### 以下是一些可以参考的备考资料
+#### Following are some study stuff which you can check
 
 - [官方考试大纲](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B2.pdf)
 - [信息安全技术知识点总结](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.docx)
@@ -13,6 +13,6 @@
 
 - [个人的知识点梳理(完整版）md](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF.md)（updating）
   
-##### 分章节的list（updating）
+##### List for each unit（updating）
 
-- [2.1密码技术](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/2.1%E5%AF%86%E7%A0%81%E6%8A%80%E6%9C%AF.md) (finish)
+- [2.信息安全基础技术与原理](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/2.1%E5%AF%86%E7%A0%81%E6%8A%80%E6%9C%AF.md) (finish)
