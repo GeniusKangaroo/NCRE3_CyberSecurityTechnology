@@ -22,4 +22,6 @@
 
 - [2.信息安全基础技术与原理](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/2.%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%8E%9F%E7%90%86.md) (finish)
 
-- [3.系统安全](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/3.%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8.md) (updating)
+- [3.系统安全](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/3.%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8.md) (finish)
+
+- [4.网络安全](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/4.%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8.md)(updating)
