@@ -26,4 +26,6 @@
 
 - [4.网络安全](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/4.%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8.md)(finish)
 
-- [5.应用安全](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/5.%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8.md)(updating)//5.1.4待深究
+- [5.应用安全](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/5.%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8.md)(main is finished,5.1.4 still updating)//5.1.4待深究
+
+- [6.信息安全管理](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/6.%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86.md)(updating)
