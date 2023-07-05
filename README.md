@@ -30,4 +30,4 @@
 
 - [6.信息安全管理](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/6.%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86.md)(finish)
 
-- [7.信息安全管理标准](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/7.%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E4%B8%8E%E6%B3%95%E8%A7%84.md)(updating)
+- [7.信息安全管理标准与法规](https://github.com/GeniusKangaroo/NCRE3_CyberSecurityTechnology/blob/main/7.%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E4%B8%8E%E6%B3%95%E8%A7%84.md)(updating)
